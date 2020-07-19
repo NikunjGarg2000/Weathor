@@ -18,6 +18,8 @@
 
 ### <a href="http://horoscope-api.herokuapp.com/">HoroscopeApiHerokuapp</a>
 
+## Download the app from <a href="https://drive.google.com/file/d/1hkfI_jaPs7KQA0t0wM3imqsr0NlUgusn/view?usp=sharing">here</a>
+
 # **Screenshots**
 
 ![Untitled design (2)](https://user-images.githubusercontent.com/67901968/87874332-96ed0c00-c9e6-11ea-9e8b-633612d41ee1.png)
